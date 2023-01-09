@@ -13,4 +13,6 @@ Nevertheless, useful for basic number validation but can be more efficient when 
 
 I have only tested this in an vscode IDE terminal, but with some tweaking of code you can make it nice and add licensing tools to it if you decide to sell Australian SMS leads.
 
-![](preview%20img/readme%20preview.png)
+![preview](https://user-images.githubusercontent.com/94292518/211355980-9234f173-b932-46a2-ba0b-eb3d08cca5aa.png)
+
+
