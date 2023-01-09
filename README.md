@@ -12,3 +12,5 @@ I was thinking of implementing a WhatsApp Filter and Facebook Filter to further 
 Nevertheless, useful for basic number validation but can be more efficient when used for SMS campaigns and marketing if in future versions these features are implemented as it would save alot of money as HLR validation does cost money and can filter out alot of non-valid numbers if the number strings generated were parsed through these filters before being HLR validated.
 
 I have only tested this in an vscode IDE terminal, but with some tweaking of code you can make it nice and add licensing tools to it if you decide to sell Australian SMS leads.
+
+![](preview%20img/readme%20preview.png)
