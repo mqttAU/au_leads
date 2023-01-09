@@ -7,8 +7,13 @@ It then saves the validated phone numbers, along with the carrier and validity i
 Note that in order for this program to work, you will need to sign up for an API key from NumVerify. Replace API_KEY in the program with your own API key.
 
 To do:
-I was thinking of implementing a WhatsApp Filter and Facebook Filter to further validate numbers and filter out inactive ones as their are some limitations to just HLR validation.
-Nevertheless, useful for basic number validation but can be more efficient when used for SMS campaigns and marketing if in future versions these features are implemented as it would save alot of money as HLR validation does cost money and can filter out alot of non-valid numbers if the number strings generated were parsed through these filters before being HLR validated.
+I was thinking of implementing in the next versions a WhatsApp Filter/Facebook Filter/Social Media Filter to further validate numbers and filter out inactive ones as there are some limitations to just HLR validation. 
+
+I was also thinking of implementing features that would scrape certain social media sites for public data based on keywords to get more targeted leads. I would have to consider the use of proxies and time limits to try prevent spam filters that some sites have in place.
+
+Furthermore, for future versions I was also considering adding a feature that would generate numbers in increments so the user would have to input the area code of a number for a country and then the following numbers afterwards so that the program would recognise how many digits the number should have and then add incremental numbers to that inputted value to generate numbers.
+
+Nevertheless, useful for basic number validation for mobile numbers but can be more efficient when used for SMS campaigns and marketing if in future versions these features are implemented as it would save alot of money as HLR validation does cost money and can filter out alot of non-valid numbers if the number strings generated were parsed through these filters before being HLR validated.
 
 I have only tested this in an vscode IDE terminal, but with some tweaking of code you can make it nice and add licensing tools to it if you decide to sell Australian SMS leads.
 
